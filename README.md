@@ -7,11 +7,21 @@
 
 ## Contact Information
 
+✉️ How to reach me: <a href="mailto:prasenjitbhosale111@gmail.com">prasenjitbhosale111@gmail.com</a>  
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/prasenjit-bhosale-678462212/" target="_blank">Prasenjit Bhosale</a>  
+🔗 LeetCode: <a href="https://leetcode.com/u/prasenjitb_111/" target="_blank">prasenjitb_111</a>
+
+
+
+
+
+
+<!--
 ✉️ How to reach me: [prasenjitbhosale111@gmail.com](mailto:prasenjitbhosale111@gmail.com)  
 🔗 LinkedIn: [Prasenjit Bhosale](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)  
 🔗 LeetCode: [prasenjitb_111](https://leetcode.com/u/prasenjitb_111/)
 
-
+-->
 
 <!--
 - 🤔 I’m looking for help with ...
