@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Prasenjit Bhosale
+ 👋 Hi, I’m Prasenjit Bhosale
 
-- I'm a passionate web developer and competitive coder with a love for learning and collaboration. 🚀
+✨ I'm a passionate web developer and competitive coder with a love for learning and collaboration. 🚀
 
 - **Passionate about**: Web Development, Competitive Coding, and Problem-Solving.  
 - **Currently learning**: Full-Stack Development, exploring new technologies and frameworks.  
