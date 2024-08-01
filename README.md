@@ -20,7 +20,7 @@ Feel free to reach out to me via any of the following channels:
 ![Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,spring,tailwind,sql)
 
 -->
-![Technologies](https://skillicons.dev/icons?i=java,spring,react,js,tailwind,html,css,bootstrap,mysql,mongodb,angular,git,postman)
+![Technologies](https://skillicons.dev/icons?i=java,spring,react,js,tailwind,html,css,bootstrap,mysql,mongodb,angular,git,postman,hibernate)
 
 
 
