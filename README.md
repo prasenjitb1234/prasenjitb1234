@@ -20,13 +20,12 @@ Feel free to reach out to me via any of the following channels:
 
 ## 🔧 Technologies & Tools
 
-Here's a quick overview of some tools and technologies I use:
 
 <!--
 ![Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,spring,tailwind,sql)
 
 -->
-![Technologies](https://skillicons.dev/icons?i=java,js,c,springboot,angular,react,html,css,bootstrap,mysql,mongodb,git,rest)
+![Technologies](https://skillicons.dev/icons?i=java,js,react,tailwind,spring,mysql,angular,html,css,bootstrap,mongodb,git,rest)
 
 ## 🚀 Fun Fact
 
