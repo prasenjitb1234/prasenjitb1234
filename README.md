@@ -1,32 +1,39 @@
+# 👋 Hi, I’m Prasenjit Bhosale
 
-👋 Hi, I’m Prasenjit Bhosale.
+Welcome to my GitHub profile! I'm a passionate web developer and competitive coder with a love for learning and collaboration. 🚀
 
-- 🔭 I’m passionate about web development and competitive coding.
-- 📚 I’m currently learning Full-stack development.
-- 🤝 I’m looking to collaborate on projects related to web development.
+## 🌟 About Me
 
-## Contact Information
+- **Passionate about**: Web Development, Competitive Coding, and Problem-Solving.  
+- **Currently learning**: Full-Stack Development, exploring new technologies and frameworks.  
+- **Looking to collaborate on**: Exciting web development projects, open-source contributions, and tech innovations.
 
-✉️ How to reach me: <a href="mailto:prasenjitbhosale111@gmail.com">prasenjitbhosale111@gmail.com</a>  
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/prasenjit-bhosale-678462212/" target="_blank">Prasenjit Bhosale</a>  
-🔗 LeetCode: <a href="https://leetcode.com/u/prasenjitb_111/" target="_blank">prasenjitb_111</a>
+## 📊 My GitHub Stats
 
+![Prasenjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjitb1234&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
 
+## 💼 Contact Information
 
+Feel free to reach out to me via any of the following channels:
 
+- **✉️ Email**: [prasenjitbhosale111@gmail.com](mailto:prasenjitbhosale111@gmail.com)  
+- **🔗 LinkedIn**: [Prasenjit Bhosale](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)  
+- **🔗 LeetCode**: [prasenjitb_111](https://leetcode.com/u/prasenjitb_111/)
 
+## 🔧 Technologies & Tools
 
-<!--
-✉️ How to reach me: [prasenjitbhosale111@gmail.com](mailto:prasenjitbhosale111@gmail.com)  
-🔗 LinkedIn: [Prasenjit Bhosale](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)  
-🔗 LeetCode: [prasenjitb_111](https://leetcode.com/u/prasenjitb_111/)
+Here's a quick overview of some tools and technologies I use:
 
--->
+![Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,spring,tailwind,sql)
 
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Fun Fact
+
+Did you know? I love solving coding challenges on LeetCode and often spend my weekends participating in competitive programming contests. 
+
+## 🌐 Let's Connect
+
+I'm always open to new opportunities and discussions. Feel free to connect with me!
+
+---
+
+Thanks for visiting my profile! 😊
