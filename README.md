@@ -1,6 +1,6 @@
 
 👋 Hi, I’m Prasenjit Bhosale 
-<span align="right"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px" alt="Git"/></span> <br>
+<span align="right"> &nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px" alt="Git"/></span> <br>
 ✨ I'm a passionate developer and competitive coder with a love for learning new tech. 🚀
 
 - **Passionate about**: Java & Web Development, Competitive Coding, and Problem-Solving.  📈
