@@ -33,14 +33,13 @@ Feel free to reach out to me via any of the following channels:
 
 ---
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prasenjitb1234&theme=algolia" alt="PrasenjitB"  /></p>
 
-<hr>
+
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasenjitb1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="prasenjitb1234" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=prasenjitb1234&show_icons=true&locale=en&theme=chartreuse-dark" alt="prasenjitb1234" width="410" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasenjitb1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="prasenjitb1234" /></p>
+
 ---
 
 
