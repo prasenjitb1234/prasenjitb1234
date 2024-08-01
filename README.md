@@ -1,4 +1,5 @@
- 👋 Hi, I’m Prasenjit Bhosale <span> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/></span>
+<span align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px" alt="Git"/></span> 
+👋 Hi, I’m Prasenjit Bhosale 
 
 ✨ I'm a passionate developer and competitive coder with a love for learning new tech. 🚀
 
@@ -31,14 +32,8 @@ Feel free to reach out to me via any of the following channels:
 ![Technologies](https://skillicons.dev/icons?i=java,spring,react,js,hibernate,tailwind,html,css,bootstrap,mysql,mongodb,angular,git,postman)
 
 
----
-### 🔥 Streak Stats
 
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prasenjitb1234&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide=python,html,css" alt="prasenjitb1234" /></p>
 
 ---
 
