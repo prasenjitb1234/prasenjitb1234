@@ -25,7 +25,7 @@ Feel free to reach out to me via any of the following channels:
 ![Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,spring,tailwind,sql)
 
 -->
-![Technologies](https://skillicons.dev/icons?i=java,js,react,tailwind,spring,mysql,angular,html,css,bootstrap,mongodb,git,rest)
+![Technologies](https://skillicons.dev/icons?i=java,spring,react,tailwind,html,css,bootstrap,js,mysql,mongodb,angular,git,postman,microservices)
 
 ## 🚀 Fun Fact
 
