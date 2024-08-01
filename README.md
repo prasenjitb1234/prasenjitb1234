@@ -1,4 +1,4 @@
- 👋 Hi, I’m Prasenjit Bhosale
+ 👋 Hi, I’m Prasenjit Bhosale <span> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" alt="Git"/></span>
 
 ✨ I'm a passionate developer and competitive coder with a love for learning new tech. 🚀
 
