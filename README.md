@@ -1,4 +1,4 @@
-<span align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px" alt="Git"/></span> 
+
 👋 Hi, I’m Prasenjit Bhosale 
 
 ✨ I'm a passionate developer and competitive coder with a love for learning new tech. 🚀
@@ -13,7 +13,7 @@ Feel free to reach out to me via any of the following channels:
 
 - **✉️ Email**: [prasenjitbhosale111@gmail.com](mailto:prasenjitbhosale111@gmail.com)  <br>
 - [![Linkedin Badge](https://img.shields.io/badge/Connect-Prasenjit%20Bhosale-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)
-  
+  <span align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px" alt="Git"/></span> 
 - [![LeetCode Badge](https://img.shields.io/badge/LeetCode-prasenjitb_111-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/prasenjitb_111/)
 
 
