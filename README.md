@@ -2,7 +2,7 @@
 
 ✨ I'm a passionate developer and competitive coder with a love for learning new tech. 🚀
 
-- **Passionate about**: Web Development, Competitive Coding, and Problem-Solving.  📈
+- **Passionate about**: Java & Web Development, Competitive Coding, and Problem-Solving.  📈
 - **Currently Working on**: Java Full-Stack Development, exploring new technologies and frameworks.  
 - **Looking to collaborate on**: Exciting dev projects & open-source contributions.
 
