@@ -38,7 +38,7 @@ Feel free to reach out to me via any of the following channels:
 
 
 
----
+
 
 <!--
 Thanks for visiting my profile! 😊
