@@ -1,3 +1,5 @@
+<!--
+
 
 👋 Hi, I’m Prasenjit Bhosale 
 <span align="right"> &nbsp;&nbsp;&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px" alt="Git"/></span> <br>
@@ -29,13 +31,15 @@ Feel free to reach out to me via any of the following channels:
 - **🔗 LeetCode**: [prasenjitb_111](https://leetcode.com/u/prasenjitb_111/)
 
 -->
+<!--
 ![Technologies](https://skillicons.dev/icons?i=java,spring,react,js,hibernate,tailwind,html,css,bootstrap,mysql,mongodb,angular,git,postman)
 
-
+-->
 
 
 
 ---
 
-
+<!--
 Thanks for visiting my profile! 😊
+-->
