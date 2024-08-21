@@ -1,4 +1,3 @@
-<!--
 
 
 👋 Hi, I’m Prasenjit Bhosale 
@@ -24,7 +23,7 @@ Feel free to reach out to me via any of the following channels:
 ---
 ## 🔧 Technologies & Tools
 
-<!--
+
 ![Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,spring,tailwind,sql)
 
 - **🔗 LinkedIn**: [Prasenjit Bhosale](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)  
@@ -37,9 +36,9 @@ Feel free to reach out to me via any of the following channels:
 -->
 
 
+---
 
 
 
-<!--
 Thanks for visiting my profile! 😊
--->
+
