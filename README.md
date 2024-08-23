@@ -24,16 +24,21 @@ Feel free to reach out to me via any of the following channels:
 ## 🔧 Technologies & Tools
 
 
+<!--
 ![Technologies](https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,java,spring,tailwind,sql)
-
-- **🔗 LinkedIn**: [Prasenjit Bhosale](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)  
-- **🔗 LeetCode**: [prasenjitb_111](https://leetcode.com/u/prasenjitb_111/)
 
 -->
 <!--
+- **🔗 LinkedIn**: [Prasenjit Bhosale](https://www.linkedin.com/in/prasenjit-bhosale-678462212/)  
+- **🔗 LeetCode**: [prasenjitb_111](https://leetcode.com/u/prasenjitb_111/)
+-->
+
+
 ![Technologies](https://skillicons.dev/icons?i=java,spring,react,js,hibernate,tailwind,html,css,bootstrap,mysql,mongodb,angular,git,postman)
 
--->
+
+
+
 
 
 ---
