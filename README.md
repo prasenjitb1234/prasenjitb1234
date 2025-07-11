@@ -44,6 +44,4 @@ I like solving real-world problems with simple, maintainable code.
   <b>Thanks for visiting my profile!</b> ✨
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasenjitb1234&style=flat-square&color=blue" alt="Profile views" />
-</p>
+
