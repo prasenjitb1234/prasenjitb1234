@@ -10,6 +10,11 @@
 
 I'm a Java full-stack developer who enjoys building scalable APIs and clean, responsive frontends.  
 I like solving real-world problems with simple, maintainable code.
+### 👨‍💻 About Me
+
+
+
+
 
 ---
 
@@ -39,12 +44,11 @@ I like solving real-world problems with simple, maintainable code.
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="120" alt="spidey-swing" />
+  <b>Thanks for visiting my profile!</b> ✨🕸️
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile!</b> ✨
+  <img src="https://komarev.com/ghpvc/?username=prasenjitb1234&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
-
