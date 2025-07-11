@@ -29,9 +29,10 @@ I like solving real-world problems with simple, maintainable code.
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:prasenjitbhosale111@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  📧 prasenjitbhosale111@gmail.com
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/prasenjit-bhosale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -46,9 +47,5 @@ I like solving real-world problems with simple, maintainable code.
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile!</b> ✨🕸️
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasenjitb1234&style=flat-square&color=blue" alt="Profile views" />
+  <b>Thanks for visiting my profile!</b> ✨
 </p>
