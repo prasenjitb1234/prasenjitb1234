@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a Java full-stack developer who enjoys building scalable APIs and clean, responsive frontends.
+I'm a Java full-stack developer who enjoys building scalable APIs and clean, responsive frontends.  
 I like solving real-world problems with simple, maintainable code.
 
 ---
@@ -40,11 +40,23 @@ I like solving real-world problems with simple, maintainable code.
 
 ---
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasenjitb1234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasenjitb1234&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=prasenjitb1234&theme=github-dark&hide_border=true" width="48%" />
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prasenjitb1234&show_icons=true&theme=github_dark&hide_border=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=prasenjitb1234&theme=github-dark&hide_border=true" width="48%" /> </p>
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitb1234&layout=compact&theme=github_dark&hide_border=true" width="50%" /> </p>
+### 🔝 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitb1234&layout=compact&theme=github_dark&hide_border=true" width="50%" />
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile!</b> ✨
+</p>
