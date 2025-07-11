@@ -23,14 +23,20 @@ I care deeply about writing scalable APIs, responsive UIs, and clean, maintainab
 
 ### 🌐 Let's Connect
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" alt="Gmail" />  
-  <strong>Email</strong>: <a href="mailto:prasenjitbhosale111@gmail.com" style="text-decoration: none; color: inherit;">prasenjitbhosale111@gmail.com</a>  
+<div align="center">
+  <a href="mailto:prasenjitbhosale111@gmail.com" target="_blank" style="text-decoration: none; margin-right: 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" alt="Gmail" title="Email" />
+    <span style="margin-left: 8px; font-size: 16px; vertical-align: middle;">prasenjitbhosale111@gmail.com</span>
+  </a>
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn" />  
-  <a href="https://www.linkedin.com/in/prasenjit-bhosale" style="text-decoration: none; color: inherit;">LinkedIn – Prasenjit Bhosale</a>  
+  <a href="https://www.linkedin.com/in/prasenjit-bhosale" target="_blank" style="text-decoration: none; margin: 0 20px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn" title="LinkedIn" />
+  </a>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20" alt="LeetCode" />  
-  <a href="https://leetcode.com/u/prasenjitb_111/" style="text-decoration: none; color: inherit;">LeetCode – prasenjitb_111</a>
+  <a href="https://leetcode.com/u/prasenjitb_111/" target="_blank" style="text-decoration: none; margin-left: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" alt="LeetCode" title="LeetCode" />
+  </a>
+</div>
 
 ---
 
