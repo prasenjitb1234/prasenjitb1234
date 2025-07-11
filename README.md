@@ -4,21 +4,12 @@
   <strong>Java Full-Stack Developer</strong> &nbsp;|&nbsp; <em>Problem Solver</em> &nbsp;|&nbsp; <em>Tech Explorer</em>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Building+clean+code+and+UIs+🚀;Writing+Java+and+living+on+LeetCode+⚡;Always+learning+something+new+💡" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 
 I'm a passionate Java full-stack developer who thrives at the intersection of backend performance and frontend design.  
 I care deeply about writing scalable APIs, responsive UIs, and clean, maintainable code.
-
-- 💼 Backend: Java, Spring Framework, Hibernate, MySQL  
-- 🎨 Frontend: Angular, JavaScript, HTML, CSS  
-- ⚙️ Tools: Git, Postman, VS Code, IntelliJ  
-- 🧠 Mindset: Build > Break > Learn > Repeat
 
 ---
 
@@ -43,12 +34,6 @@ I care deeply about writing scalable APIs, responsive UIs, and clean, maintainab
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
-
----
-
-### 💬 Quote I Live By
-
-<p align="center"><em>“First, solve the problem. Then, write the code.”</em> – John Johnson</p>
 
 ---
 
