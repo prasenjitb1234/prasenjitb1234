@@ -23,20 +23,20 @@ I care deeply about writing scalable APIs, responsive UIs, and clean, maintainab
 
 ### 🌐 Let's Connect
 
-<div align="center">
-  <a href="mailto:prasenjitbhosale111@gmail.com" target="_blank" style="text-decoration: none; margin-right: 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="28" alt="Gmail" title="Email" />
-    <span style="margin-left: 8px; font-size: 16px; vertical-align: middle;">prasenjitbhosale111@gmail.com</span>
+<p align="center">
+  <a href="mailto:prasenjitbhosale111@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/prasenjit-bhosale" target="_blank" style="text-decoration: none; margin: 0 20px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" alt="LinkedIn" title="LinkedIn" />
+  <a href="https://www.linkedin.com/in/prasenjit-bhosale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
-  <a href="https://leetcode.com/u/prasenjitb_111/" target="_blank" style="text-decoration: none; margin-left: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="28" alt="LeetCode" title="LeetCode" />
+  <a href="https://leetcode.com/u/prasenjitb_111/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=yellow" alt="LeetCode Badge"/>
   </a>
-</div>
+  <a href="https://github.com/prasenjitb1234" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</p>
 
 ---
 
