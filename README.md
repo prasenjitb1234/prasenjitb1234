@@ -1,7 +1,7 @@
 <!-- Hero Section -->
 <h1 align="center">Hi, I'm Prasenjit Bhosale 👋</h1>
 <p align="center">
-  <strong>Java Full-Stack Developer</strong> &nbsp;|&nbsp; <em>Problem Solver</em> &nbsp;|&nbsp; <em>Tech Explorer</em>
+  <strong>Developer</strong> &nbsp;|&nbsp; <em>Problem Solver</em> &nbsp;|&nbsp; <em>Tech Explorer</em>
 </p>
 
 ---
@@ -16,7 +16,7 @@ I care deeply about writing scalable APIs, responsive UIs, and clean, maintainab
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,hibernate,js,html,css,mysql,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,hibernate,js,html,css,python,mysql,git,postman,bootstrap" />
 </p>
 
 ---
@@ -25,15 +25,16 @@ I care deeply about writing scalable APIs, responsive UIs, and clean, maintainab
 
 <p align="center">
   <a href="mailto:prasenjitbhosale111@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail" title="Email" />
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prasenjit-bhosale" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" title="LinkedIn" />
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/prasenjitb_111/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30" alt="LeetCode" title="LeetCode" />
   </a>
 </p>
+
 
 ---
 
