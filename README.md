@@ -10,10 +10,6 @@
 
 I'm a Java full-stack developer who enjoys building scalable APIs and clean, responsive frontends.  
 I like solving real-world problems with simple, maintainable code.
-### 👨‍💻 About Me
-
-
-
 
 
 ---
