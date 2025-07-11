@@ -8,8 +8,8 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate Java full-stack developer who thrives at the intersection of backend performance and frontend design.  
-I care deeply about writing scalable APIs, responsive UIs, and clean, maintainable code.
+I'm a Java full-stack developer who enjoys building scalable APIs and clean, responsive frontends.
+I like solving real-world problems with simple, maintainable code.
 
 ---
 
@@ -41,5 +41,6 @@ I care deeply about writing scalable APIs, responsive UIs, and clean, maintainab
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=prasenjitb1234&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
 </p>
+
