@@ -20,13 +20,21 @@ I'm a passionate developer and competitive coder who loves solving problems and 
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats & Activity
 
 <div align="center">
 
-![Prasenjit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasenjitbhosale&show_icons=true&theme=github_dark&hide_border=true&hide_title=true)
+<a href="https://github.com/prasenjitbhosale">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=prasenjitbhosale&show_icons=true&theme=transparent&hide_border=true&custom_title=GitHub+Stats" />
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitbhosale&layout=compact&theme=github_dark&hide_border=true)
+<a href="https://github.com/prasenjitbhosale">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasenjitbhosale&layout=compact&theme=transparent&hide_border=true&langs_count=10&title=Top+Languages" />
+</a>
+
+<a href="https://github.com/prasenjitbhosale">
+  <img width="96%" src="https://github-readme-activity-graph.cyclic.app/graph?username=prasenjitbhosale&theme=github-compact&hide_border=true" />
+</a>
 
 </div>
 
